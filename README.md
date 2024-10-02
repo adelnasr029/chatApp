@@ -23,6 +23,7 @@ A real-time chat application built with **React**, **WebSocket**, **Socket.IO**,
 
 ## Examples:
 Take a look at these examples projects I built:
+
 [My Portfolio](https://adelabdulazeem.netlify.app/)
 
  [Chairs Store Co](https://chairs-store-website.onrender.com)
